@@ -36,7 +36,6 @@ class SomeView: UIView {
     
     override init(frame: CGRect) {
         super.init(frame: frame)
-        
         self.layer.backgroundColor = UIColor.clear.cgColor
     }
     
